@@ -4,3 +4,4 @@ En este repositorio se almacenarán todos los archivos de un curso sencillo de j
 
 ----- KOMBAT SIMULATOR -----
 https://github.com/Agumeri/Kombat-Simulator-jQueryMobile
+---------------------------
