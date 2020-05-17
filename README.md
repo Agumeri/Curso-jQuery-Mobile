@@ -33,6 +33,7 @@ Ademas, haciendo uso de data-role podemos asignar botones, cajas, cuadros de dia
   
   
   #####
-    Tras todo lo realizado, el codigo subido a este repositorio quedaría tal que así visto desde un dispositivo movil: 
-    ![foto](/img/Prototipo\de\pagina\principal.png)
+   Tras todo lo realizado, el codigo subido a este repositorio quedaría tal que así visto desde un dispositivo movil: 
+   
+   ![foto](img/prototipo.png)
     
